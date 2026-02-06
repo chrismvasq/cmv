@@ -4,7 +4,7 @@ title = "Christian Vasquez | journalist"
 languageCode = "en-us"
 # https://github.com/clente/hugo-bearcub/blob/main/exampleSite/hugo.toml
 theme = "hugo-bearcub"
-copyright = "copyleft"
+copyright = " "
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO

@@ -1,12 +1,12 @@
 +++
 title = "work"
 author = ["Christian Vasquez"]
-layout = "single"
-lastmod = 2025-09-02T13:33:28-04:00
+date = 2025-09-02
+lastmod = 2026-02-06T17:47:49-05:00
 draft = false
 weight = 1002
 [menu]
-  [menu._work]
+  [menu.work]
     weight = 1002
     identifier = "work"
 +++
@@ -17,21 +17,18 @@ Current projects:
 
 -   [Diaspora Handbook](https://diaspora-reporting.beehiiv.com/)
     -   A working group creating a handbook for journalist to cover diaspora communities.
--   Cybersecurity for the broke journalist (title WIP)
--   freelancing!
+-   Freelancing!
 
-**Freelance:**
+Freelance:
 
--   **Fortune** `early 2025`
-    -   [12 article series "Connect &amp; Protect"](https://fortune.com/author/christian-vasquez/)
+-   **Fortune** early 2025
+    -   [12 article series “Connect &amp; Protect”](https://fortune.com/author/christian-vasquez)
 
-**pubs and clips:**
-
-| Publications     | dates                    | topics                                               |
-|------------------|--------------------------|------------------------------------------------------|
-| CyberScoop       | `Oct. 2022 - Nov. 2024`  | cyber, critical infrastructure, open-source software |
-| E&amp;E News (🔒) | `Jan. 2020 - Oct. 2022`  | cyber, electricity, oil &amp; natural gas            |
-| POLITICO         | `Sept. 2018 - Dec. 2019` | cyber, digital production, breaking news             |
+| Publications     | dates                   | topics                                      |
+|------------------|-------------------------|---------------------------------------------|
+| CyberScoop       | 'Oct. 2022 - Nov. 2024' | cyber, infrastructure, open-source software |
+| E&amp;E News (🔒) | Jan. 2020 - Oct. 2022   | cyber, electricity, oil &amp; natural gas   |
+| POLITICO         | Sept. 2018 - Dec. 2019  | cyber, digital production, breaking news    |
 
 -   General cybersecurity policy:
     -   👁️‍🗨️ [Cyber incident reporting](https://cyberscoop.com/cisa-cyber-incident-reporting-critical-infrastructure/) ([Resource issues](https://cyberscoop.com/cisa-circia-cyber-incident-reporting/))
@@ -56,4 +53,6 @@ Current projects:
     -   📡 [Are space systems critical infrastructure?](https://cyberscoop.com/space-critical-infrastructure/) 🛰️ ([How to hack a satellite in space](https://cyberscoop.com/moonlighter-hack-a-sat-defcon/))
     -   📝 [Cyber volunteers](https://cyberscoop.com/franklin-project-cybersecurity-volunteers-jeff-moss-def-con/)
 
-(I got tired of looking for stories but you get the point!)
+
+[//]: # "Exported with <3 from Org mode"
+[//]: # "- https://github.com/kaushalmodi/ox-hugo"

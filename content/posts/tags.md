@@ -1,7 +1,7 @@
 +++
 title = "tags"
 author = ["Christian Vasquez"]
-lastmod = 2025-08-12T13:31:05-04:00
+lastmod = 2026-02-06T17:47:49-05:00
 draft = false
 weight = 1004
 [menu]
@@ -9,3 +9,7 @@ weight = 1004
     weight = 1004
     identifier = "tags"
 +++
+
+
+[//]: # "Exported with <3 from Org mode"
+[//]: # "- https://github.com/kaushalmodi/ox-hugo"

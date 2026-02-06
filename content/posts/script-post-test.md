@@ -1,22 +1,24 @@
 +++
-title = "Hello world!"
+title = "hello world!"
 author = ["Christian Vasquez"]
-date = 2025-06-04T00:00:00-04:00
-lastmod = 2025-09-02T13:38:14-04:00
+lastmod = 2026-02-06T17:47:49-05:00
 tags = ["test"]
-categories = ["test"]
 draft = false
-weight = 2002
+weight = 2001
 [menu]
   [menu.posts]
-    weight = 2002
+    weight = 2001
     identifier = "hello-world"
 +++
 
-## TITLE {#title}
+## hello world! {#hello-world}
 
 Hello World! This is the first post on this blog.
 
-I'll have some contact info up shortly if not already present but this post is to ensure the build script is working. There is a basic rss feed you should consider adding!
+I’ll have some contact info up shortly if not already present but this post is to ensure the build script is working. There is a basic rss feed you should consider adding!
 
--- cmv
+– cmv
+
+
+[//]: # "Exported with <3 from Org mode"
+[//]: # "- https://github.com/kaushalmodi/ox-hugo"
